@@ -7,7 +7,13 @@ Instill confidence
 	explain what a shell is
 		GUI vs terminal
 		Metaphor about the woods
+			The command line, or terminal, or shell, or the little black box on your computer. There is some slight different between those, but for our purposes today, they're all the same
+			We have a computer and we need a way to interact with the it - there are a couple different ways to do that - the graphics (like with the cursor and the clicking) and the command line.
+			The GUI is like the mouse and clicking
 	define heirachy
 		What is a folder/directory
+			Just like a file folder, it's a thing you put stuff in - files or more folders, for example
 		Give an exercise about how to visualize the heiarchy
+			Open up some nesting dolls
+		Think of the file heiarchy like a family tree
 

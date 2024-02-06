@@ -1,19 +1,56 @@
 Instill confidence
+	flow of talk
+		metaphor of the woods
+		introduction of me
+		code of conduct
+		explain what the shell is (gui vs shell)
+		define heiarchy
+		explain what a command is
+		where to go for help
 	explain what a command is
+		A simple shell command such as echo a b c consists of the command itself followed by arguments, separated by spaces.
 	where to go for help
 		man
+			man <command_name>
 		help
+			"help" is a command that will list all the built in commands for bash
+				you can then type "help <command_name>" and get some more information and usage about that command
 		google
+			In this day and age, you will almost never be without a GUI which means you can minimize the terminal, or go to another computer, and use the ever helpful Google
+				"unix command to list the contents of directory" yields many good tutorials about "ls"
 	explain what a shell is
 		GUI vs terminal
-		Metaphor about the woods
-			The command line, or terminal, or shell, or the little black box on your computer. There is some slight different between those, but for our purposes today, they're all the same
 			We have a computer and we need a way to interact with the it - there are a couple different ways to do that - the graphics (like with the cursor and the clicking) and the command line.
-			The GUI is like the mouse and clicking
+			The command line, or terminal, or shell, or the little black box on your computer. There is some slight different between those, but for our purposes today, they're all the same
+			The GUI (or Graphical User Interface) is like the mouse and clicking
+			Now, why would you use this?
+				Fast way of doing repetative task
+				less system intensive
+				you have more flexibity - if you were just going to use the graphics, then you're locked into the options provided by that software
+		Metaphor about the woods
+			The command line, terminal, little black box is kinda like going into the woods. You're there for a reason, probably temporarlity, though there are some people who live out there.
+			You have a backpack full of tools (like command line commands) that have a variety of uses. But it helps to know a bit about them to use them more effectively
+			Or at the very least know how to learn about what they do
+			Now, you could probably get away from tightly holding onto a list of steps
+				like if you copy/paste the commands from a doc or email
+			But if something is slightly amiss with the steps, then are you able to adapt?
+			The goal of this workshop is to give you some confidence when you find yourself in front of a command line or terminal.
 	define heirachy
 		What is a folder/directory
 			Just like a file folder, it's a thing you put stuff in - files or more folders, for example
 		Give an exercise about how to visualize the heiarchy
 			Open up some nesting dolls
 		Think of the file heiarchy like a family tree
+	Useful commands
+		pwd
+		ls
+		cd
+		mkdir
+		rmdir
+		rm
+		mv
+		cp
+		cat
+		less
+		find
 

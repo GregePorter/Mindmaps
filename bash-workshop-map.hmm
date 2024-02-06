@@ -18,6 +18,9 @@ Instill confidence
 		google
 			In this day and age, you will almost never be without a GUI which means you can minimize the terminal, or go to another computer, and use the ever helpful Google
 				"unix command to list the contents of directory" yields many good tutorials about "ls"
+		tldr
+			https://tldr.inbrowser.app/
+			also has an offline download app for the terminal
 	explain what a shell is
 		GUI vs terminal
 			We have a computer and we need a way to interact with the it - there are a couple different ways to do that - the graphics (like with the cursor and the clicking) and the command line.

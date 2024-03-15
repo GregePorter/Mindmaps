@@ -1,0 +1,31 @@
+best-practice
+	Nan
+		github
+			Readme
+				Main source of documentation
+			Tests
+				Manual and meh at best
+			Branching strategy
+				Main
+				Python Changes
+					Yikezola
+					What was I thinking with these names...
+				Update R
+				Remove Extra Files
+		Project Strategy
+			Meet with client
+			Define project
+				They kept saying they wanted GPUs
+				They just wanted it faster
+					Parallelize it!
+						C++
+						R
+						Python
+							I really kinda loathe Python
+							The compilation of the cpp wrapped in python proved to be too much
+			Communication strategy
+				A bunch of emails to get started
+					Asked them for guidance about the structure of the code
+						They completely annotated the code
+				Weekly emails as the project was underway
+
